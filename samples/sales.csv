@@ -1,0 +1,943 @@
+order_id,date,channel,campaign,gross_revenue,refund_amount,currency
+SYN-1001,2026-08-01, Search ,Search / High intent,91.20,0.00,USD
+SYN-1002,2026-08-01,paid search,Search / High intent,97.26,0.00,USD
+SYN-1003,2026-08-01,paid search,Search / High intent,87.86,0.00,USD
+SYN-1004,2026-08-01,paid search,Search / High intent,84.99,0.00,USD
+SYN-1005,2026-08-01,paid search,Search / High intent,72.79,0.00,USD
+SYN-1006,2026-08-01,paid search,Search / High intent,82.75,0.00,USD
+SYN-1007,2026-08-01,paid search,Search / High intent,94.26,0.00,USD
+SYN-1008,2026-08-01, Search ,Search / High intent,88.81,0.00,USD
+SYN-1009,2026-08-01,paid search,Search / High intent,90.50,0.00,USD
+SYN-1010,2026-08-01,paid search,Search / High intent,75.42,0.00,USD
+SYN-1011,2026-08-01,paid search,Search / High intent,98.57,0.00,USD
+SYN-1012,2026-08-01,paid search,Search / High intent,107.78,0.00,USD
+SYN-1013,2026-08-01,paid search,Search / High intent,87.77,0.00,USD
+SYN-1014,2026-08-01,paid social,Social / Prospecting,90.69,90.69,USD
+SYN-1015,2026-08-01,paid social,Social / Prospecting,77.59,0.00,USD
+SYN-1016,2026-08-01,paid social,Social / Prospecting,75.21,0.00,USD
+SYN-1017,2026-08-01,paid social,Social / Prospecting,85.46,0.00,USD
+SYN-1018,2026-08-01,paid social,Social / Prospecting,72.24,0.00,USD
+SYN-1019,2026-08-01,paid social,Social / Prospecting,65.31,0.00,USD
+SYN-1020,2026-08-01,paid social,Social / Prospecting,64.74,0.00,USD
+SYN-1021,2026-08-01,email,Email / Loyalty,111.07,0.00,USD
+SYN-1022,2026-08-01,email,Email / Loyalty,112.50,0.00,USD
+SYN-1023,2026-08-01,email,Email / Loyalty,93.65,0.00,USD
+SYN-1024,2026-08-01,email,Email / Loyalty,112.57,0.00,USD
+SYN-1025,2026-08-01,email,Email / Loyalty,108.24,0.00,USD
+SYN-1026,2026-08-01,email,Email / Loyalty,88.23,0.00,USD
+SYN-1027,2026-08-01,email,Email / Loyalty,119.62,119.62,USD
+SYN-1028,2026-08-01,organic,Organic / Discovery,71.64,0.00,USD
+SYN-1029,2026-08-01,organic,Organic / Discovery,88.05,0.00,USD
+SYN-1030,2026-08-01,organic,Organic / Discovery,68.72,0.00,USD
+SYN-1031,2026-08-01,organic,Organic / Discovery,102.16,0.00,USD
+SYN-1032,2026-08-02,paid search,Search / High intent,76.83,0.00,USD
+SYN-1033,2026-08-02,paid search,Search / High intent,79.34,0.00,USD
+SYN-1034,2026-08-02,paid search,Search / High intent,102.61,0.00,USD
+SYN-1035,2026-08-02,paid search,Search / High intent,76.62,0.00,USD
+SYN-1036,2026-08-02, Search ,Search / High intent,95.88,0.00,USD
+SYN-1037,2026-08-02,paid search,Search / High intent,91.16,0.00,USD
+SYN-1038,2026-08-02,paid search,Search / High intent,103.32,0.00,USD
+SYN-1039,2026-08-02,paid search,Search / High intent,100.75,0.00,USD
+SYN-1040,2026-08-02,paid search,Search / High intent,95.03,95.03,USD
+SYN-1041,2026-08-02,paid search,Search / High intent,98.36,0.00,USD
+SYN-1042,2026-08-02,paid social,Social / Prospecting,76.99,0.00,USD
+SYN-1043,2026-08-02,paid social,Social / Prospecting,78.31,0.00,USD
+SYN-1044,2026-08-02,paid social,Social / Prospecting,59.40,0.00,USD
+SYN-1045,2026-08-02,paid social,Social / Prospecting,59.47,0.00,USD
+SYN-1046,2026-08-02,paid social,Social / Prospecting,95.36,0.00,USD
+SYN-1047,2026-08-02,paid social,Social / Prospecting,86.97,0.00,USD
+SYN-1048,2026-08-02,paid social,Social / Prospecting,76.65,0.00,USD
+SYN-1049,2026-08-02,paid social,Social / Prospecting,74.20,0.00,USD
+SYN-1050,2026-08-02,paid social,Social / Prospecting,67.36,0.00,USD
+SYN-1051,2026-08-02,paid social,Social / Prospecting,90.37,0.00,USD
+SYN-1052,2026-08-02,email,Email / Loyalty,82.45,82.45,USD
+SYN-1053,2026-08-02,email,Email / Loyalty,90.00,0.00,USD
+SYN-1054,2026-08-02,email,Email / Loyalty,82.91,0.00,USD
+SYN-1055,2026-08-02,email,Email / Loyalty,102.68,0.00,USD
+SYN-1056,2026-08-02,email,Email / Loyalty,97.37,0.00,USD
+SYN-1057,2026-08-02,organic,Organic / Discovery,76.52,0.00,USD
+SYN-1058,2026-08-02,organic,Organic / Discovery,82.28,0.00,USD
+SYN-1059,2026-08-02,organic,Organic / Discovery,82.59,0.00,USD
+SYN-1060,2026-08-02,organic,Organic / Discovery,95.73,0.00,USD
+SYN-1061,2026-08-02,organic,Organic / Discovery,71.27,0.00,USD
+SYN-1062,2026-08-03,paid search,Search / High intent,70.78,70.78,USD
+SYN-1063,2026-08-03,paid search,Search / High intent,103.18,0.00,USD
+SYN-1064,2026-08-03, Search ,Search / High intent,78.91,0.00,USD
+SYN-1065,2026-08-03,paid search,Search / High intent,96.64,0.00,USD
+SYN-1066,2026-08-03,paid search,Search / High intent,79.97,0.00,USD
+SYN-1067,2026-08-03,paid search,Search / High intent,84.80,0.00,USD
+SYN-1068,2026-08-03,paid search,Search / High intent,83.11,0.00,USD
+SYN-1069,2026-08-03,paid search,Search / High intent,76.45,0.00,USD
+SYN-1070,2026-08-03,paid search,Search / High intent,76.26,0.00,USD
+SYN-1071,2026-08-03, Search ,Search / High intent,81.07,0.00,USD
+SYN-1072,2026-08-03,paid search,Search / High intent,71.53,0.00,USD
+SYN-1073,2026-08-03,paid search,Search / High intent,79.05,0.00,USD
+SYN-1074,2026-08-03,paid search,Search / High intent,71.98,0.00,USD
+SYN-1075,2026-08-03,paid search,Search / High intent,88.64,0.00,USD
+SYN-1076,2026-08-03,paid social,Social / Prospecting,76.78,0.00,USD
+SYN-1077,2026-08-03,paid social,Social / Prospecting,82.93,0.00,USD
+SYN-1078,2026-08-03,paid social,Social / Prospecting,61.19,0.00,USD
+SYN-1079,2026-08-03,paid social,Social / Prospecting,69.44,0.00,USD
+SYN-1080,2026-08-03,paid social,Social / Prospecting,92.48,0.00,USD
+SYN-1081,2026-08-03,paid social,Social / Prospecting,71.52,0.00,USD
+SYN-1082,2026-08-03,email,Email / Loyalty,97.35,97.35,USD
+SYN-1083,2026-08-03,email,Email / Loyalty,91.23,0.00,USD
+SYN-1084,2026-08-03,email,Email / Loyalty,112.76,0.00,USD
+SYN-1085,2026-08-03,email,Email / Loyalty,109.08,0.00,USD
+SYN-1086,2026-08-03,email,Email / Loyalty,103.00,0.00,USD
+SYN-1087,2026-08-03,email,Email / Loyalty,110.87,0.00,USD
+SYN-1088,2026-08-03,email,Email / Loyalty,116.98,0.00,USD
+SYN-1089,2026-08-03,email,Email / Loyalty,119.90,0.00,USD
+SYN-1090,2026-08-03,email,Email / Loyalty,90.05,0.00,USD
+SYN-1091,2026-08-03,email,Email / Loyalty,103.60,0.00,USD
+SYN-1092,2026-08-03,organic,Organic / Discovery,84.18,0.00,USD
+SYN-1093,2026-08-03,organic,Organic / Discovery,87.57,0.00,USD
+SYN-1094,2026-08-03,organic,Organic / Discovery,74.57,0.00,USD
+SYN-1095,2026-08-03,organic,Organic / Discovery,84.73,0.00,USD
+SYN-1096,2026-08-03,organic,Organic / Discovery,104.47,0.00,USD
+SYN-1097,2026-08-03,organic,Organic / Discovery,71.58,0.00,USD
+SYN-1098,2026-08-04,paid search,Search / High intent,97.09,0.00,USD
+SYN-1099,2026-08-04, Search ,Search / High intent,83.80,0.00,USD
+SYN-1100,2026-08-04,paid search,Search / High intent,75.18,0.00,USD
+SYN-1101,2026-08-04,paid search,Search / High intent,81.74,0.00,USD
+SYN-1102,2026-08-04,paid search,Search / High intent,76.35,0.00,USD
+SYN-1103,2026-08-04,paid search,Search / High intent,99.39,0.00,USD
+SYN-1104,2026-08-04,paid search,Search / High intent,84.57,0.00,USD
+SYN-1105,2026-08-04,paid search,Search / High intent,108.26,0.00,USD
+SYN-1106,2026-08-04, Search ,Search / High intent,79.38,0.00,USD
+SYN-1107,2026-08-04,paid search,Search / High intent,70.61,0.00,USD
+SYN-1108,2026-08-04,paid search,Search / High intent,100.93,0.00,USD
+SYN-1109,2026-08-04,paid search,Search / High intent,98.86,0.00,USD
+SYN-1110,2026-08-04,paid search,Search / High intent,95.06,0.00,USD
+SYN-1111,2026-08-04,paid search,Search / High intent,104.26,0.00,USD
+SYN-1112,2026-08-04,paid search,Search / High intent,100.19,0.00,USD
+SYN-1113,2026-08-04,paid social,Social / Prospecting,66.18,66.18,USD
+SYN-1114,2026-08-04,paid social,Social / Prospecting,73.67,0.00,USD
+SYN-1115,2026-08-04,paid social,Social / Prospecting,71.99,0.00,USD
+SYN-1116,2026-08-04,paid social,Social / Prospecting,95.41,95.41,USD
+SYN-1117,2026-08-04,paid social,Social / Prospecting,77.32,0.00,USD
+SYN-1118,2026-08-04,paid social,Social / Prospecting,64.99,0.00,USD
+SYN-1119,2026-08-04,paid social,Social / Prospecting,68.99,0.00,USD
+SYN-1120,2026-08-04,paid social,Social / Prospecting,61.90,0.00,USD
+SYN-1121,2026-08-04,email,Email / Loyalty,92.69,0.00,USD
+SYN-1122,2026-08-04,email,Email / Loyalty,117.21,0.00,USD
+SYN-1123,2026-08-04,email,Email / Loyalty,99.59,0.00,USD
+SYN-1124,2026-08-04,email,Email / Loyalty,100.57,0.00,USD
+SYN-1125,2026-08-04,email,Email / Loyalty,82.43,0.00,USD
+SYN-1126,2026-08-04,email,Email / Loyalty,87.12,0.00,USD
+SYN-1127,2026-08-04,email,Email / Loyalty,102.65,0.00,USD
+SYN-1128,2026-08-04,email,Email / Loyalty,103.86,0.00,USD
+SYN-1129,2026-08-04,email,Email / Loyalty,100.00,0.00,USD
+SYN-1130,2026-08-04,email,Email / Loyalty,113.32,0.00,USD
+SYN-1131,2026-08-04,organic,Organic / Discovery,79.71,0.00,USD
+SYN-1132,2026-08-04,organic,Organic / Discovery,66.24,0.00,USD
+SYN-1133,2026-08-04,organic,Organic / Discovery,68.07,68.07,USD
+SYN-1134,2026-08-04,organic,Organic / Discovery,103.83,0.00,USD
+SYN-1135,2026-08-04,organic,Organic / Discovery,88.96,0.00,USD
+SYN-1136,2026-08-04,organic,Organic / Discovery,89.38,0.00,USD
+SYN-1137,2026-08-05,paid search,Search / High intent,84.66,0.00,USD
+SYN-1138,2026-08-05,paid search,Search / High intent,100.20,0.00,USD
+SYN-1139,2026-08-05,paid search,Search / High intent,75.33,0.00,USD
+SYN-1140,2026-08-05,paid search,Search / High intent,95.25,0.00,USD
+SYN-1141,2026-08-05, Search ,Search / High intent,82.83,0.00,USD
+SYN-1142,2026-08-05,paid search,Search / High intent,99.22,0.00,USD
+SYN-1143,2026-08-05,paid search,Search / High intent,106.89,0.00,USD
+SYN-1144,2026-08-05,paid search,Search / High intent,101.49,0.00,USD
+SYN-1145,2026-08-05,paid search,Search / High intent,76.30,0.00,USD
+SYN-1146,2026-08-05,paid search,Search / High intent,93.67,0.00,USD
+SYN-1147,2026-08-05,paid search,Search / High intent,91.95,91.95,USD
+SYN-1148,2026-08-05, Search ,Search / High intent,94.40,0.00,USD
+SYN-1149,2026-08-05,paid search,Search / High intent,95.21,0.00,USD
+SYN-1150,2026-08-05,paid search,Search / High intent,106.49,0.00,USD
+SYN-1151,2026-08-05,paid social,Social / Prospecting,77.26,0.00,USD
+SYN-1152,2026-08-05,paid social,Social / Prospecting,86.25,0.00,USD
+SYN-1153,2026-08-05,paid social,Social / Prospecting,75.43,0.00,USD
+SYN-1154,2026-08-05,paid social,Social / Prospecting,96.36,0.00,USD
+SYN-1155,2026-08-05,paid social,Social / Prospecting,81.76,0.00,USD
+SYN-1156,2026-08-05,paid social,Social / Prospecting,74.53,0.00,USD
+SYN-1157,2026-08-05,paid social,Social / Prospecting,76.62,0.00,USD
+SYN-1158,2026-08-05,paid social,Social / Prospecting,91.48,0.00,USD
+SYN-1159,2026-08-05,paid social,Social / Prospecting,65.18,0.00,USD
+SYN-1160,2026-08-05,paid social,Social / Prospecting,68.67,0.00,USD
+SYN-1161,2026-08-05,paid social,Social / Prospecting,58.35,0.00,USD
+SYN-1162,2026-08-05,email,Email / Loyalty,95.71,0.00,USD
+SYN-1163,2026-08-05,email,Email / Loyalty,102.55,0.00,USD
+SYN-1164,2026-08-05,email,Email / Loyalty,97.63,0.00,USD
+SYN-1165,2026-08-05,email,Email / Loyalty,83.02,0.00,USD
+SYN-1166,2026-08-05,email,Email / Loyalty,119.19,0.00,USD
+SYN-1167,2026-08-05,email,Email / Loyalty,111.01,0.00,USD
+SYN-1168,2026-08-05,email,Email / Loyalty,111.80,0.00,USD
+SYN-1169,2026-08-05,email,Email / Loyalty,112.77,0.00,USD
+SYN-1170,2026-08-05,organic,Organic / Discovery,100.36,0.00,USD
+SYN-1171,2026-08-05,organic,Organic / Discovery,93.04,0.00,USD
+SYN-1172,2026-08-05,organic,Organic / Discovery,102.79,0.00,USD
+SYN-1173,2026-08-06,paid search,Search / High intent,109.97,0.00,USD
+SYN-1174,2026-08-06,paid search,Search / High intent,105.22,0.00,USD
+SYN-1175,2026-08-06,paid search,Search / High intent,70.17,0.00,USD
+SYN-1176,2026-08-06, Search ,Search / High intent,95.67,0.00,USD
+SYN-1177,2026-08-06,paid search,Search / High intent,93.74,0.00,USD
+SYN-1178,2026-08-06,paid search,Search / High intent,86.28,0.00,USD
+SYN-1179,2026-08-06,paid search,Search / High intent,79.41,0.00,USD
+SYN-1180,2026-08-06,paid search,Search / High intent,83.87,0.00,USD
+SYN-1181,2026-08-06,paid search,Search / High intent,91.04,0.00,USD
+SYN-1182,2026-08-06,paid search,Search / High intent,102.54,0.00,USD
+SYN-1183,2026-08-06, Search ,Search / High intent,77.25,0.00,USD
+SYN-1184,2026-08-06,paid search,Search / High intent,79.02,0.00,USD
+SYN-1185,2026-08-06,paid search,Search / High intent,76.08,0.00,USD
+SYN-1186,2026-08-06,paid search,Search / High intent,96.40,0.00,USD
+SYN-1187,2026-08-06,paid search,Search / High intent,101.31,0.00,USD
+SYN-1188,2026-08-06,paid social,Social / Prospecting,90.66,0.00,USD
+SYN-1189,2026-08-06,paid social,Social / Prospecting,87.66,0.00,USD
+SYN-1190,2026-08-06,paid social,Social / Prospecting,72.47,0.00,USD
+SYN-1191,2026-08-06,paid social,Social / Prospecting,71.21,0.00,USD
+SYN-1192,2026-08-06,paid social,Social / Prospecting,95.21,0.00,USD
+SYN-1193,2026-08-06,paid social,Social / Prospecting,79.72,0.00,USD
+SYN-1194,2026-08-06,paid social,Social / Prospecting,81.29,0.00,USD
+SYN-1195,2026-08-06,paid social,Social / Prospecting,58.31,0.00,USD
+SYN-1196,2026-08-06,paid social,Social / Prospecting,74.57,0.00,USD
+SYN-1197,2026-08-06,paid social,Social / Prospecting,83.52,0.00,USD
+SYN-1198,2026-08-06,paid social,Social / Prospecting,93.94,0.00,USD
+SYN-1199,2026-08-06,email,Email / Loyalty,86.88,0.00,USD
+SYN-1200,2026-08-06,email,Email / Loyalty,98.41,0.00,USD
+SYN-1201,2026-08-06,email,Email / Loyalty,105.06,0.00,USD
+SYN-1202,2026-08-06,email,Email / Loyalty,100.69,0.00,USD
+SYN-1203,2026-08-06,email,Email / Loyalty,101.57,0.00,USD
+SYN-1204,2026-08-06,email,Email / Loyalty,97.41,0.00,USD
+SYN-1205,2026-08-06,email,Email / Loyalty,108.54,0.00,USD
+SYN-1206,2026-08-06,email,Email / Loyalty,109.84,0.00,USD
+SYN-1207,2026-08-06,email,Email / Loyalty,87.36,0.00,USD
+SYN-1208,2026-08-06,organic,Organic / Discovery,75.76,0.00,USD
+SYN-1209,2026-08-06,organic,Organic / Discovery,100.62,0.00,USD
+SYN-1210,2026-08-06,organic,Organic / Discovery,93.89,0.00,USD
+SYN-1211,2026-08-06,organic,Organic / Discovery,98.76,0.00,USD
+SYN-1212,2026-08-06,organic,Organic / Discovery,94.48,0.00,USD
+SYN-1213,2026-08-06,organic,Organic / Discovery,102.84,0.00,USD
+SYN-1214,2026-08-06,organic,Organic / Discovery,69.24,0.00,USD
+SYN-1215,2026-08-07,paid search,Search / High intent,106.05,0.00,USD
+SYN-1216,2026-08-07,paid search,Search / High intent,106.32,0.00,USD
+SYN-1217,2026-08-07,paid search,Search / High intent,78.82,0.00,USD
+SYN-1218,2026-08-07, Search ,Search / High intent,85.84,0.00,USD
+SYN-1219,2026-08-07,paid search,Search / High intent,86.72,0.00,USD
+SYN-1220,2026-08-07,paid search,Search / High intent,75.43,0.00,USD
+SYN-1221,2026-08-07,paid search,Search / High intent,87.58,0.00,USD
+SYN-1222,2026-08-07,paid search,Search / High intent,85.08,0.00,USD
+SYN-1223,2026-08-07,paid search,Search / High intent,77.49,0.00,USD
+SYN-1224,2026-08-07,paid search,Search / High intent,109.67,0.00,USD
+SYN-1225,2026-08-07, Search ,Search / High intent,77.02,0.00,USD
+SYN-1226,2026-08-07,paid search,Search / High intent,82.28,0.00,USD
+SYN-1227,2026-08-07,paid social,Social / Prospecting,77.87,0.00,USD
+SYN-1228,2026-08-07,paid social,Social / Prospecting,82.65,0.00,USD
+SYN-1229,2026-08-07,paid social,Social / Prospecting,84.37,0.00,USD
+SYN-1230,2026-08-07,paid social,Social / Prospecting,76.06,0.00,USD
+SYN-1231,2026-08-07,paid social,Social / Prospecting,96.76,0.00,USD
+SYN-1232,2026-08-07,paid social,Social / Prospecting,66.25,0.00,USD
+SYN-1233,2026-08-07,paid social,Social / Prospecting,59.19,0.00,USD
+SYN-1234,2026-08-07,paid social,Social / Prospecting,90.46,0.00,USD
+SYN-1235,2026-08-07,paid social,Social / Prospecting,82.67,0.00,USD
+SYN-1236,2026-08-07,email,Email / Loyalty,83.26,0.00,USD
+SYN-1237,2026-08-07,email,Email / Loyalty,109.43,0.00,USD
+SYN-1238,2026-08-07,email,Email / Loyalty,112.34,0.00,USD
+SYN-1239,2026-08-07,email,Email / Loyalty,108.34,0.00,USD
+SYN-1240,2026-08-07,email,Email / Loyalty,88.73,0.00,USD
+SYN-1241,2026-08-07,email,Email / Loyalty,86.92,0.00,USD
+SYN-1242,2026-08-07,email,Email / Loyalty,100.56,0.00,USD
+SYN-1243,2026-08-07,email,Email / Loyalty,119.84,0.00,USD
+SYN-1244,2026-08-07,organic,Organic / Discovery,90.09,0.00,USD
+SYN-1245,2026-08-07,organic,Organic / Discovery,65.03,0.00,USD
+SYN-1246,2026-08-07,organic,Organic / Discovery,67.90,0.00,USD
+SYN-1247,2026-08-07,organic,Organic / Discovery,74.86,0.00,USD
+SYN-1248,2026-08-07,organic,Organic / Discovery,95.66,0.00,USD
+SYN-1249,2026-08-07,organic,Organic / Discovery,79.91,0.00,USD
+SYN-1250,2026-08-07,organic,Organic / Discovery,71.88,0.00,USD
+SYN-1251,2026-08-08,paid search,Search / High intent,91.23,0.00,USD
+SYN-1252,2026-08-08,paid search,Search / High intent,70.36,0.00,USD
+SYN-1253,2026-08-08, Search ,Search / High intent,99.68,0.00,USD
+SYN-1254,2026-08-08,paid search,Search / High intent,74.44,0.00,USD
+SYN-1255,2026-08-08,paid search,Search / High intent,73.54,0.00,USD
+SYN-1256,2026-08-08,paid search,Search / High intent,107.74,0.00,USD
+SYN-1257,2026-08-08,paid search,Search / High intent,73.57,0.00,USD
+SYN-1258,2026-08-08,paid search,Search / High intent,96.72,0.00,USD
+SYN-1259,2026-08-08,paid search,Search / High intent,88.94,0.00,USD
+SYN-1260,2026-08-08, Search ,Search / High intent,106.28,0.00,USD
+SYN-1261,2026-08-08,paid search,Search / High intent,83.85,0.00,USD
+SYN-1262,2026-08-08,paid social,Social / Prospecting,60.58,0.00,USD
+SYN-1263,2026-08-08,paid social,Social / Prospecting,91.65,0.00,USD
+SYN-1264,2026-08-08,paid social,Social / Prospecting,57.71,0.00,USD
+SYN-1265,2026-08-08,paid social,Social / Prospecting,68.75,0.00,USD
+SYN-1266,2026-08-08,paid social,Social / Prospecting,82.29,0.00,USD
+SYN-1267,2026-08-08,paid social,Social / Prospecting,64.58,0.00,USD
+SYN-1268,2026-08-08,paid social,Social / Prospecting,75.54,0.00,USD
+SYN-1269,2026-08-08,email,Email / Loyalty,85.91,0.00,USD
+SYN-1270,2026-08-08,email,Email / Loyalty,84.68,0.00,USD
+SYN-1271,2026-08-08,email,Email / Loyalty,117.99,0.00,USD
+SYN-1272,2026-08-08,email,Email / Loyalty,114.44,0.00,USD
+SYN-1273,2026-08-08,email,Email / Loyalty,119.74,0.00,USD
+SYN-1274,2026-08-08,email,Email / Loyalty,108.25,0.00,USD
+SYN-1275,2026-08-08,email,Email / Loyalty,102.04,0.00,USD
+SYN-1276,2026-08-08,email,Email / Loyalty,110.20,0.00,USD
+SYN-1277,2026-08-08,organic,Organic / Discovery,80.04,0.00,USD
+SYN-1278,2026-08-08,organic,Organic / Discovery,85.96,0.00,USD
+SYN-1279,2026-08-08,organic,Organic / Discovery,71.42,0.00,USD
+SYN-1280,2026-08-09,paid search,Search / High intent,109.24,0.00,USD
+SYN-1281,2026-08-09, Search ,Search / High intent,85.05,0.00,USD
+SYN-1282,2026-08-09,paid search,Search / High intent,81.57,0.00,USD
+SYN-1283,2026-08-09,paid search,Search / High intent,97.77,0.00,USD
+SYN-1284,2026-08-09,paid search,Search / High intent,75.51,0.00,USD
+SYN-1285,2026-08-09,paid search,Search / High intent,86.69,0.00,USD
+SYN-1286,2026-08-09,paid search,Search / High intent,75.02,0.00,USD
+SYN-1287,2026-08-09,paid search,Search / High intent,70.21,0.00,USD
+SYN-1288,2026-08-09, Search ,Search / High intent,103.85,0.00,USD
+SYN-1289,2026-08-09,paid search,Search / High intent,89.43,0.00,USD
+SYN-1290,2026-08-09,paid social,Social / Prospecting,79.07,0.00,USD
+SYN-1291,2026-08-09,paid social,Social / Prospecting,75.13,0.00,USD
+SYN-1292,2026-08-09,paid social,Social / Prospecting,96.05,0.00,USD
+SYN-1293,2026-08-09,paid social,Social / Prospecting,81.25,0.00,USD
+SYN-1294,2026-08-09,paid social,Social / Prospecting,65.50,0.00,USD
+SYN-1295,2026-08-09,paid social,Social / Prospecting,91.31,0.00,USD
+SYN-1296,2026-08-09,paid social,Social / Prospecting,81.30,0.00,USD
+SYN-1297,2026-08-09,paid social,Social / Prospecting,76.72,0.00,USD
+SYN-1298,2026-08-09,paid social,Social / Prospecting,63.05,0.00,USD
+SYN-1299,2026-08-09,paid social,Social / Prospecting,84.90,0.00,USD
+SYN-1300,2026-08-09,email,Email / Loyalty,111.49,0.00,USD
+SYN-1301,2026-08-09,email,Email / Loyalty,83.06,0.00,USD
+SYN-1302,2026-08-09,email,Email / Loyalty,89.89,0.00,USD
+SYN-1303,2026-08-09,email,Email / Loyalty,84.57,0.00,USD
+SYN-1304,2026-08-09,email,Email / Loyalty,119.72,0.00,USD
+SYN-1305,2026-08-09,email,Email / Loyalty,119.03,0.00,USD
+SYN-1306,2026-08-09,organic,Organic / Discovery,78.98,0.00,USD
+SYN-1307,2026-08-09,organic,Organic / Discovery,80.36,0.00,USD
+SYN-1308,2026-08-09,organic,Organic / Discovery,90.52,0.00,USD
+SYN-1309,2026-08-09,organic,Organic / Discovery,67.70,0.00,USD
+SYN-1310,2026-08-09,organic,Organic / Discovery,91.98,0.00,USD
+SYN-1311,2026-08-10,paid search,Search / High intent,109.19,0.00,USD
+SYN-1312,2026-08-10,paid search,Search / High intent,82.40,0.00,USD
+SYN-1313,2026-08-10,paid search,Search / High intent,79.02,0.00,USD
+SYN-1314,2026-08-10,paid search,Search / High intent,72.67,0.00,USD
+SYN-1315,2026-08-10,paid search,Search / High intent,80.11,0.00,USD
+SYN-1316,2026-08-10, Search ,Search / High intent,70.27,0.00,USD
+SYN-1317,2026-08-10,paid search,Search / High intent,108.35,0.00,USD
+SYN-1318,2026-08-10,paid search,Search / High intent,71.64,0.00,USD
+SYN-1319,2026-08-10,paid search,Search / High intent,103.85,0.00,USD
+SYN-1320,2026-08-10,paid search,Search / High intent,74.31,0.00,USD
+SYN-1321,2026-08-10,paid search,Search / High intent,75.55,0.00,USD
+SYN-1322,2026-08-10,paid search,Search / High intent,97.52,0.00,USD
+SYN-1323,2026-08-10, Search ,Search / High intent,75.12,0.00,USD
+SYN-1324,2026-08-10,paid social,Social / Prospecting,58.56,0.00,USD
+SYN-1325,2026-08-10,paid social,Social / Prospecting,78.00,0.00,USD
+SYN-1326,2026-08-10,paid social,Social / Prospecting,72.64,0.00,USD
+SYN-1327,2026-08-10,paid social,Social / Prospecting,94.60,0.00,USD
+SYN-1328,2026-08-10,paid social,Social / Prospecting,86.01,0.00,USD
+SYN-1329,2026-08-10,paid social,Social / Prospecting,69.87,0.00,USD
+SYN-1330,2026-08-10,paid social,Social / Prospecting,66.11,0.00,USD
+SYN-1331,2026-08-10,paid social,Social / Prospecting,66.76,0.00,USD
+SYN-1332,2026-08-10,paid social,Social / Prospecting,76.62,0.00,USD
+SYN-1333,2026-08-10,paid social,Social / Prospecting,84.35,0.00,USD
+SYN-1334,2026-08-10,email,Email / Loyalty,94.12,0.00,USD
+SYN-1335,2026-08-10,email,Email / Loyalty,100.57,0.00,USD
+SYN-1336,2026-08-10,email,Email / Loyalty,81.99,0.00,USD
+SYN-1337,2026-08-10,email,Email / Loyalty,108.54,0.00,USD
+SYN-1338,2026-08-10,email,Email / Loyalty,106.23,0.00,USD
+SYN-1339,2026-08-10,email,Email / Loyalty,112.60,0.00,USD
+SYN-1340,2026-08-10,email,Email / Loyalty,116.06,0.00,USD
+SYN-1341,2026-08-10,email,Email / Loyalty,85.80,0.00,USD
+SYN-1342,2026-08-10,organic,Organic / Discovery,82.16,0.00,USD
+SYN-1343,2026-08-10,organic,Organic / Discovery,71.16,0.00,USD
+SYN-1344,2026-08-10,organic,Organic / Discovery,73.40,0.00,USD
+SYN-1345,2026-08-10,organic,Organic / Discovery,68.89,0.00,USD
+SYN-1346,2026-08-11,paid search,Search / High intent,72.75,0.00,USD
+SYN-1347,2026-08-11,paid search,Search / High intent,76.83,0.00,USD
+SYN-1348,2026-08-11,paid search,Search / High intent,96.54,0.00,USD
+SYN-1349,2026-08-11,paid search,Search / High intent,93.69,0.00,USD
+SYN-1350,2026-08-11,paid search,Search / High intent,93.29,0.00,USD
+SYN-1351,2026-08-11, Search ,Search / High intent,82.54,0.00,USD
+SYN-1352,2026-08-11,paid search,Search / High intent,76.90,0.00,USD
+SYN-1353,2026-08-11,paid search,Search / High intent,98.01,0.00,USD
+SYN-1354,2026-08-11,paid search,Search / High intent,80.05,0.00,USD
+SYN-1355,2026-08-11,paid search,Search / High intent,93.05,0.00,USD
+SYN-1356,2026-08-11,paid search,Search / High intent,104.99,0.00,USD
+SYN-1357,2026-08-11,paid search,Search / High intent,76.51,0.00,USD
+SYN-1358,2026-08-11, Search ,Search / High intent,103.30,0.00,USD
+SYN-1359,2026-08-11,paid search,Search / High intent,102.45,0.00,USD
+SYN-1360,2026-08-11,paid search,Search / High intent,109.25,0.00,USD
+SYN-1361,2026-08-11,paid social,Social / Prospecting,91.42,0.00,USD
+SYN-1362,2026-08-11,paid social,Social / Prospecting,80.47,0.00,USD
+SYN-1363,2026-08-11,paid social,Social / Prospecting,58.29,0.00,USD
+SYN-1364,2026-08-11,paid social,Social / Prospecting,62.70,0.00,USD
+SYN-1365,2026-08-11,paid social,Social / Prospecting,77.51,77.51,USD
+SYN-1366,2026-08-11,paid social,Social / Prospecting,93.13,0.00,USD
+SYN-1367,2026-08-11,email,Email / Loyalty,103.16,0.00,USD
+SYN-1368,2026-08-11,email,Email / Loyalty,111.22,0.00,USD
+SYN-1369,2026-08-11,email,Email / Loyalty,88.40,0.00,USD
+SYN-1370,2026-08-11,email,Email / Loyalty,113.30,0.00,USD
+SYN-1371,2026-08-11,email,Email / Loyalty,119.16,0.00,USD
+SYN-1372,2026-08-11,organic,Organic / Discovery,73.94,0.00,USD
+SYN-1373,2026-08-11,organic,Organic / Discovery,70.52,0.00,USD
+SYN-1374,2026-08-11,organic,Organic / Discovery,72.13,0.00,USD
+SYN-1375,2026-08-11,organic,Organic / Discovery,82.89,0.00,USD
+SYN-1376,2026-08-11,organic,Organic / Discovery,79.18,0.00,USD
+SYN-1377,2026-08-12,paid search,Search / High intent,75.57,0.00,USD
+SYN-1378,2026-08-12,paid search,Search / High intent,84.44,0.00,USD
+SYN-1379,2026-08-12, Search ,Search / High intent,80.06,0.00,USD
+SYN-1380,2026-08-12,paid search,Search / High intent,103.64,0.00,USD
+SYN-1381,2026-08-12,paid search,Search / High intent,88.94,88.94,USD
+SYN-1382,2026-08-12,paid search,Search / High intent,79.80,0.00,USD
+SYN-1383,2026-08-12,paid search,Search / High intent,94.33,0.00,USD
+SYN-1384,2026-08-12,paid search,Search / High intent,87.73,0.00,USD
+SYN-1385,2026-08-12,paid search,Search / High intent,102.90,0.00,USD
+SYN-1386,2026-08-12, Search ,Search / High intent,80.40,0.00,USD
+SYN-1387,2026-08-12,paid search,Search / High intent,107.66,0.00,USD
+SYN-1388,2026-08-12,paid search,Search / High intent,107.35,0.00,USD
+SYN-1389,2026-08-12,paid search,Search / High intent,86.68,0.00,USD
+SYN-1390,2026-08-12,paid social,Social / Prospecting,60.76,0.00,USD
+SYN-1391,2026-08-12,paid social,Social / Prospecting,65.47,0.00,USD
+SYN-1392,2026-08-12,paid social,Social / Prospecting,76.92,0.00,USD
+SYN-1393,2026-08-12,paid social,Social / Prospecting,85.97,0.00,USD
+SYN-1394,2026-08-12,paid social,Social / Prospecting,83.28,0.00,USD
+SYN-1395,2026-08-12,paid social,Social / Prospecting,73.38,0.00,USD
+SYN-1396,2026-08-12,paid social,Social / Prospecting,87.16,0.00,USD
+SYN-1397,2026-08-12,paid social,Social / Prospecting,86.62,0.00,USD
+SYN-1398,2026-08-12,paid social,Social / Prospecting,69.09,0.00,USD
+SYN-1399,2026-08-12,paid social,Social / Prospecting,90.06,0.00,USD
+SYN-1400,2026-08-12,email,Email / Loyalty,107.80,0.00,USD
+SYN-1401,2026-08-12,email,Email / Loyalty,103.10,0.00,USD
+SYN-1402,2026-08-12,email,Email / Loyalty,96.45,0.00,USD
+SYN-1403,2026-08-12,email,Email / Loyalty,104.23,0.00,USD
+SYN-1404,2026-08-12,email,Email / Loyalty,81.98,0.00,USD
+SYN-1405,2026-08-12,email,Email / Loyalty,92.55,0.00,USD
+SYN-1406,2026-08-12,email,Email / Loyalty,80.85,0.00,USD
+SYN-1407,2026-08-12,email,Email / Loyalty,111.90,0.00,USD
+SYN-1408,2026-08-12,email,Email / Loyalty,108.05,0.00,USD
+SYN-1409,2026-08-12,organic,Organic / Discovery,76.40,0.00,USD
+SYN-1410,2026-08-12,organic,Organic / Discovery,97.24,0.00,USD
+SYN-1411,2026-08-12,organic,Organic / Discovery,96.80,0.00,USD
+SYN-1412,2026-08-13,paid search,Search / High intent,105.33,105.33,USD
+SYN-1413,2026-08-13,paid search,Search / High intent,89.00,0.00,USD
+SYN-1414,2026-08-13, Search ,Search / High intent,90.55,0.00,USD
+SYN-1415,2026-08-13,paid search,Search / High intent,105.02,0.00,USD
+SYN-1416,2026-08-13,paid search,Search / High intent,107.44,0.00,USD
+SYN-1417,2026-08-13,paid search,Search / High intent,107.63,0.00,USD
+SYN-1418,2026-08-13,paid search,Search / High intent,75.65,0.00,USD
+SYN-1419,2026-08-13,paid search,Search / High intent,97.42,0.00,USD
+SYN-1420,2026-08-13,paid search,Search / High intent,71.56,0.00,USD
+SYN-1421,2026-08-13, Search ,Search / High intent,75.44,0.00,USD
+SYN-1422,2026-08-13,paid social,Social / Prospecting,64.71,0.00,USD
+SYN-1423,2026-08-13,paid social,Social / Prospecting,88.20,0.00,USD
+SYN-1424,2026-08-13,paid social,Social / Prospecting,93.51,0.00,USD
+SYN-1425,2026-08-13,paid social,Social / Prospecting,89.88,0.00,USD
+SYN-1426,2026-08-13,paid social,Social / Prospecting,82.96,0.00,USD
+SYN-1427,2026-08-13,paid social,Social / Prospecting,65.05,0.00,USD
+SYN-1428,2026-08-13,email,Email / Loyalty,91.04,0.00,USD
+SYN-1429,2026-08-13,email,Email / Loyalty,85.98,0.00,USD
+SYN-1430,2026-08-13,email,Email / Loyalty,99.05,0.00,USD
+SYN-1431,2026-08-13,email,Email / Loyalty,91.28,0.00,USD
+SYN-1432,2026-08-13,email,Email / Loyalty,107.24,0.00,USD
+SYN-1433,2026-08-13,email,Email / Loyalty,111.35,0.00,USD
+SYN-1434,2026-08-13,email,Email / Loyalty,112.77,0.00,USD
+SYN-1435,2026-08-13,email,Email / Loyalty,82.57,0.00,USD
+SYN-1436,2026-08-13,email,Email / Loyalty,101.81,0.00,USD
+SYN-1437,2026-08-13,organic,Organic / Discovery,93.02,0.00,USD
+SYN-1438,2026-08-13,organic,Organic / Discovery,66.51,0.00,USD
+SYN-1439,2026-08-13,organic,Organic / Discovery,97.95,0.00,USD
+SYN-1440,2026-08-13,organic,Organic / Discovery,89.48,0.00,USD
+SYN-1441,2026-08-14,paid search,Search / High intent,85.63,0.00,USD
+SYN-1442,2026-08-14, Search ,Search / High intent,96.76,0.00,USD
+SYN-1443,2026-08-14,paid search,Search / High intent,103.90,0.00,USD
+SYN-1444,2026-08-14,paid search,Search / High intent,78.44,0.00,USD
+SYN-1445,2026-08-14,paid search,Search / High intent,96.28,0.00,USD
+SYN-1446,2026-08-14,paid search,Search / High intent,86.60,0.00,USD
+SYN-1447,2026-08-14,paid search,Search / High intent,77.39,0.00,USD
+SYN-1448,2026-08-14,paid search,Search / High intent,78.36,0.00,USD
+SYN-1449,2026-08-14, Search ,Search / High intent,105.46,0.00,USD
+SYN-1450,2026-08-14,paid search,Search / High intent,78.37,0.00,USD
+SYN-1451,2026-08-14,paid search,Search / High intent,89.40,0.00,USD
+SYN-1452,2026-08-14,paid search,Search / High intent,107.26,0.00,USD
+SYN-1453,2026-08-14,paid search,Search / High intent,86.56,0.00,USD
+SYN-1454,2026-08-14,paid search,Search / High intent,71.72,0.00,USD
+SYN-1455,2026-08-14,paid search,Search / High intent,84.58,0.00,USD
+SYN-1456,2026-08-14,paid social,Social / Prospecting,65.99,0.00,USD
+SYN-1457,2026-08-14,paid social,Social / Prospecting,59.95,0.00,USD
+SYN-1458,2026-08-14,paid social,Social / Prospecting,92.02,0.00,USD
+SYN-1459,2026-08-14,paid social,Social / Prospecting,63.75,0.00,USD
+SYN-1460,2026-08-14,paid social,Social / Prospecting,64.22,0.00,USD
+SYN-1461,2026-08-14,paid social,Social / Prospecting,59.36,0.00,USD
+SYN-1462,2026-08-14,email,Email / Loyalty,80.58,0.00,USD
+SYN-1463,2026-08-14,email,Email / Loyalty,117.80,0.00,USD
+SYN-1464,2026-08-14,email,Email / Loyalty,84.24,0.00,USD
+SYN-1465,2026-08-14,email,Email / Loyalty,88.33,0.00,USD
+SYN-1466,2026-08-14,email,Email / Loyalty,109.81,0.00,USD
+SYN-1467,2026-08-14,email,Email / Loyalty,109.63,0.00,USD
+SYN-1468,2026-08-14,email,Email / Loyalty,80.78,80.78,USD
+SYN-1469,2026-08-14,organic,Organic / Discovery,93.71,0.00,USD
+SYN-1470,2026-08-14,organic,Organic / Discovery,67.72,0.00,USD
+SYN-1471,2026-08-14,organic,Organic / Discovery,102.57,0.00,USD
+SYN-1472,2026-08-14,organic,Organic / Discovery,102.39,0.00,USD
+SYN-1473,2026-08-14,organic,Organic / Discovery,84.50,0.00,USD
+SYN-1474,2026-08-14,organic,Organic / Discovery,71.45,0.00,USD
+SYN-1475,2026-08-14,organic,Organic / Discovery,93.79,93.79,USD
+SYN-1476,2026-08-15,paid search,Search / High intent,109.50,0.00,USD
+SYN-1477,2026-08-15, Search ,Search / High intent,99.15,0.00,USD
+SYN-1478,2026-08-15,paid search,Search / High intent,87.76,0.00,USD
+SYN-1479,2026-08-15,paid search,Search / High intent,76.08,0.00,USD
+SYN-1480,2026-08-15,paid search,Search / High intent,86.15,0.00,USD
+SYN-1481,2026-08-15,paid search,Search / High intent,84.41,0.00,USD
+SYN-1482,2026-08-15,paid search,Search / High intent,77.08,0.00,USD
+SYN-1483,2026-08-15,paid search,Search / High intent,74.50,0.00,USD
+SYN-1484,2026-08-15, Search ,Search / High intent,81.49,0.00,USD
+SYN-1485,2026-08-15,paid search,Search / High intent,107.81,107.81,USD
+SYN-1486,2026-08-15,paid social,Social / Prospecting,81.97,0.00,USD
+SYN-1487,2026-08-15,paid social,Social / Prospecting,68.24,0.00,USD
+SYN-1488,2026-08-15,paid social,Social / Prospecting,83.10,0.00,USD
+SYN-1489,2026-08-15,paid social,Social / Prospecting,66.40,0.00,USD
+SYN-1490,2026-08-15,paid social,Social / Prospecting,95.01,0.00,USD
+SYN-1491,2026-08-15,paid social,Social / Prospecting,92.20,0.00,USD
+SYN-1492,2026-08-15,paid social,Social / Prospecting,94.81,0.00,USD
+SYN-1493,2026-08-15,paid social,Social / Prospecting,83.05,0.00,USD
+SYN-1494,2026-08-15,email,Email / Loyalty,108.34,0.00,USD
+SYN-1495,2026-08-15,email,Email / Loyalty,111.23,0.00,USD
+SYN-1496,2026-08-15,email,Email / Loyalty,105.76,0.00,USD
+SYN-1497,2026-08-15,email,Email / Loyalty,103.08,0.00,USD
+SYN-1498,2026-08-15,email,Email / Loyalty,96.12,0.00,USD
+SYN-1499,2026-08-15,email,Email / Loyalty,91.27,0.00,USD
+SYN-1500,2026-08-15,email,Email / Loyalty,114.98,114.98,USD
+SYN-1501,2026-08-15,email,Email / Loyalty,84.62,0.00,USD
+SYN-1502,2026-08-15,email,Email / Loyalty,88.83,0.00,USD
+SYN-1503,2026-08-15,email,Email / Loyalty,101.90,0.00,USD
+SYN-1504,2026-08-15,organic,Organic / Discovery,79.25,0.00,USD
+SYN-1505,2026-08-15,organic,Organic / Discovery,101.53,0.00,USD
+SYN-1506,2026-08-15,organic,Organic / Discovery,76.77,0.00,USD
+SYN-1507,2026-08-16,paid search,Search / High intent,84.01,0.00,USD
+SYN-1508,2026-08-16,paid search,Search / High intent,78.28,0.00,USD
+SYN-1509,2026-08-16,paid search,Search / High intent,98.45,0.00,USD
+SYN-1510,2026-08-16,paid search,Search / High intent,97.17,0.00,USD
+SYN-1511,2026-08-16,paid search,Search / High intent,109.94,0.00,USD
+SYN-1512,2026-08-16, Search ,Search / High intent,88.85,0.00,USD
+SYN-1513,2026-08-16,paid search,Search / High intent,96.84,0.00,USD
+SYN-1514,2026-08-16,paid search,Search / High intent,80.19,0.00,USD
+SYN-1515,2026-08-16,paid search,Search / High intent,86.08,0.00,USD
+SYN-1516,2026-08-16,paid search,Search / High intent,74.48,0.00,USD
+SYN-1517,2026-08-16,paid search,Search / High intent,87.02,0.00,USD
+SYN-1518,2026-08-16,paid social,Social / Prospecting,62.89,0.00,USD
+SYN-1519,2026-08-16,paid social,Social / Prospecting,64.78,0.00,USD
+SYN-1520,2026-08-16,paid social,Social / Prospecting,96.07,0.00,USD
+SYN-1521,2026-08-16,paid social,Social / Prospecting,93.39,0.00,USD
+SYN-1522,2026-08-16,paid social,Social / Prospecting,72.86,0.00,USD
+SYN-1523,2026-08-16,paid social,Social / Prospecting,60.80,0.00,USD
+SYN-1524,2026-08-16,paid social,Social / Prospecting,95.76,0.00,USD
+SYN-1525,2026-08-16,paid social,Social / Prospecting,83.96,0.00,USD
+SYN-1526,2026-08-16,paid social,Social / Prospecting,64.65,0.00,USD
+SYN-1527,2026-08-16,email,Email / Loyalty,85.31,0.00,USD
+SYN-1528,2026-08-16,email,Email / Loyalty,116.94,0.00,USD
+SYN-1529,2026-08-16,email,Email / Loyalty,93.69,0.00,USD
+SYN-1530,2026-08-16,email,Email / Loyalty,85.31,0.00,USD
+SYN-1531,2026-08-16,email,Email / Loyalty,111.12,0.00,USD
+SYN-1532,2026-08-16,email,Email / Loyalty,92.26,0.00,USD
+SYN-1533,2026-08-16,organic,Organic / Discovery,85.71,0.00,USD
+SYN-1534,2026-08-16,organic,Organic / Discovery,81.32,0.00,USD
+SYN-1535,2026-08-16,organic,Organic / Discovery,83.21,0.00,USD
+SYN-1536,2026-08-16,organic,Organic / Discovery,104.60,104.60,USD
+SYN-1537,2026-08-16,organic,Organic / Discovery,84.04,0.00,USD
+SYN-1538,2026-08-16,organic,Organic / Discovery,78.35,0.00,USD
+SYN-1539,2026-08-16,organic,Organic / Discovery,83.97,0.00,USD
+SYN-1540,2026-08-16,organic,Organic / Discovery,90.05,90.05,USD
+SYN-1541,2026-08-17,paid search,Search / High intent,102.99,0.00,USD
+SYN-1542,2026-08-17,paid search,Search / High intent,89.60,0.00,USD
+SYN-1543,2026-08-17,paid search,Search / High intent,87.32,0.00,USD
+SYN-1544,2026-08-17,paid search,Search / High intent,82.96,0.00,USD
+SYN-1545,2026-08-17,paid search,Search / High intent,76.56,0.00,USD
+SYN-1546,2026-08-17,paid search,Search / High intent,101.73,0.00,USD
+SYN-1547,2026-08-17, Search ,Search / High intent,76.42,0.00,USD
+SYN-1548,2026-08-17,paid search,Search / High intent,105.13,0.00,USD
+SYN-1549,2026-08-17,paid search,Search / High intent,91.29,0.00,USD
+SYN-1550,2026-08-17,paid search,Search / High intent,95.08,0.00,USD
+SYN-1551,2026-08-17,paid search,Search / High intent,100.04,0.00,USD
+SYN-1552,2026-08-17,paid search,Search / High intent,103.37,0.00,USD
+SYN-1553,2026-08-17,paid search,Search / High intent,102.37,0.00,USD
+SYN-1554,2026-08-17,paid social,Social / Prospecting,92.97,0.00,USD
+SYN-1555,2026-08-17,paid social,Social / Prospecting,84.28,0.00,USD
+SYN-1556,2026-08-17,paid social,Social / Prospecting,66.80,0.00,USD
+SYN-1557,2026-08-17,paid social,Social / Prospecting,66.97,0.00,USD
+SYN-1558,2026-08-17,paid social,Social / Prospecting,94.36,0.00,USD
+SYN-1559,2026-08-17,paid social,Social / Prospecting,69.58,0.00,USD
+SYN-1560,2026-08-17,paid social,Social / Prospecting,71.29,0.00,USD
+SYN-1561,2026-08-17,paid social,Social / Prospecting,70.79,0.00,USD
+SYN-1562,2026-08-17,paid social,Social / Prospecting,65.97,0.00,USD
+SYN-1563,2026-08-17,paid social,Social / Prospecting,95.21,0.00,USD
+SYN-1564,2026-08-17,email,Email / Loyalty,115.99,0.00,USD
+SYN-1565,2026-08-17,email,Email / Loyalty,113.12,0.00,USD
+SYN-1566,2026-08-17,email,Email / Loyalty,101.74,0.00,USD
+SYN-1567,2026-08-17,email,Email / Loyalty,99.90,0.00,USD
+SYN-1568,2026-08-17,email,Email / Loyalty,95.41,0.00,USD
+SYN-1569,2026-08-17,email,Email / Loyalty,105.95,105.95,USD
+SYN-1570,2026-08-17,email,Email / Loyalty,113.28,0.00,USD
+SYN-1571,2026-08-17,organic,Organic / Discovery,92.62,0.00,USD
+SYN-1572,2026-08-17,organic,Organic / Discovery,82.44,0.00,USD
+SYN-1573,2026-08-17,organic,Organic / Discovery,89.27,0.00,USD
+SYN-1574,2026-08-17,organic,Organic / Discovery,70.31,0.00,USD
+SYN-1575,2026-08-18, Search ,Search / High intent,81.10,0.00,USD
+SYN-1576,2026-08-18,paid search,Search / High intent,84.48,0.00,USD
+SYN-1577,2026-08-18,paid search,Search / High intent,89.38,0.00,USD
+SYN-1578,2026-08-18,paid search,Search / High intent,99.15,0.00,USD
+SYN-1579,2026-08-18,paid search,Search / High intent,94.44,0.00,USD
+SYN-1580,2026-08-18,paid search,Search / High intent,92.68,0.00,USD
+SYN-1581,2026-08-18,paid search,Search / High intent,99.08,0.00,USD
+SYN-1582,2026-08-18, Search ,Search / High intent,105.14,0.00,USD
+SYN-1583,2026-08-18,paid search,Search / High intent,71.49,0.00,USD
+SYN-1584,2026-08-18,paid search,Search / High intent,76.20,0.00,USD
+SYN-1585,2026-08-18,paid social,Social / Prospecting,92.25,0.00,USD
+SYN-1586,2026-08-18,paid social,Social / Prospecting,93.77,0.00,USD
+SYN-1587,2026-08-18,paid social,Social / Prospecting,82.68,0.00,USD
+SYN-1588,2026-08-18,paid social,Social / Prospecting,75.08,0.00,USD
+SYN-1589,2026-08-18,paid social,Social / Prospecting,65.45,0.00,USD
+SYN-1590,2026-08-18,paid social,Social / Prospecting,93.88,93.88,USD
+SYN-1591,2026-08-18,email,Email / Loyalty,102.45,0.00,USD
+SYN-1592,2026-08-18,email,Email / Loyalty,113.75,0.00,USD
+SYN-1593,2026-08-18,email,Email / Loyalty,106.49,0.00,USD
+SYN-1594,2026-08-18,email,Email / Loyalty,80.73,0.00,USD
+SYN-1595,2026-08-18,email,Email / Loyalty,93.45,0.00,USD
+SYN-1596,2026-08-18,email,Email / Loyalty,96.81,0.00,USD
+SYN-1597,2026-08-18,email,Email / Loyalty,93.61,0.00,USD
+SYN-1598,2026-08-18,email,Email / Loyalty,106.03,0.00,USD
+SYN-1599,2026-08-18,organic,Organic / Discovery,73.90,0.00,USD
+SYN-1600,2026-08-18,organic,Organic / Discovery,70.26,0.00,USD
+SYN-1601,2026-08-18,organic,Organic / Discovery,71.13,0.00,USD
+SYN-1602,2026-08-18,organic,Organic / Discovery,74.89,0.00,USD
+SYN-1603,2026-08-18,organic,Organic / Discovery,98.00,0.00,USD
+SYN-1604,2026-08-19,paid search,Search / High intent,86.84,0.00,USD
+SYN-1605,2026-08-19,paid search,Search / High intent,86.02,0.00,USD
+SYN-1606,2026-08-19,paid search,Search / High intent,86.53,0.00,USD
+SYN-1607,2026-08-19,paid search,Search / High intent,80.96,0.00,USD
+SYN-1608,2026-08-19,paid search,Search / High intent,108.73,0.00,USD
+SYN-1609,2026-08-19,paid search,Search / High intent,76.32,0.00,USD
+SYN-1610,2026-08-19, Search ,Search / High intent,103.14,0.00,USD
+SYN-1611,2026-08-19,paid search,Search / High intent,71.05,0.00,USD
+SYN-1612,2026-08-19,paid search,Search / High intent,97.20,0.00,USD
+SYN-1613,2026-08-19,paid search,Search / High intent,94.76,0.00,USD
+SYN-1614,2026-08-19,paid search,Search / High intent,89.79,0.00,USD
+SYN-1615,2026-08-19,paid search,Search / High intent,82.55,0.00,USD
+SYN-1616,2026-08-19,paid search,Search / High intent,100.13,100.13,USD
+SYN-1617,2026-08-19,paid social,Social / Prospecting,68.78,0.00,USD
+SYN-1618,2026-08-19,paid social,Social / Prospecting,89.36,0.00,USD
+SYN-1619,2026-08-19,paid social,Social / Prospecting,62.41,0.00,USD
+SYN-1620,2026-08-19,paid social,Social / Prospecting,90.42,0.00,USD
+SYN-1621,2026-08-19,paid social,Social / Prospecting,82.85,0.00,USD
+SYN-1622,2026-08-19,paid social,Social / Prospecting,68.83,0.00,USD
+SYN-1623,2026-08-19,paid social,Social / Prospecting,75.13,0.00,USD
+SYN-1624,2026-08-19,paid social,Social / Prospecting,96.82,0.00,USD
+SYN-1625,2026-08-19,paid social,Social / Prospecting,60.33,0.00,USD
+SYN-1626,2026-08-19,paid social,Social / Prospecting,57.78,0.00,USD
+SYN-1627,2026-08-19,email,Email / Loyalty,91.95,0.00,USD
+SYN-1628,2026-08-19,email,Email / Loyalty,107.61,0.00,USD
+SYN-1629,2026-08-19,email,Email / Loyalty,81.58,0.00,USD
+SYN-1630,2026-08-19,email,Email / Loyalty,108.15,0.00,USD
+SYN-1631,2026-08-19,email,Email / Loyalty,119.43,0.00,USD
+SYN-1632,2026-08-19,email,Email / Loyalty,114.50,0.00,USD
+SYN-1633,2026-08-19,organic,Organic / Discovery,83.47,0.00,USD
+SYN-1634,2026-08-19,organic,Organic / Discovery,81.11,0.00,USD
+SYN-1635,2026-08-19,organic,Organic / Discovery,82.83,0.00,USD
+SYN-1636,2026-08-19,organic,Organic / Discovery,94.90,0.00,USD
+SYN-1637,2026-08-19,organic,Organic / Discovery,82.71,82.71,USD
+SYN-1638,2026-08-19,organic,Organic / Discovery,77.73,0.00,USD
+SYN-1639,2026-08-19,organic,Organic / Discovery,103.46,0.00,USD
+SYN-1640,2026-08-20,paid search,Search / High intent,93.81,0.00,USD
+SYN-1641,2026-08-20,paid search,Search / High intent,89.07,89.07,USD
+SYN-1642,2026-08-20,paid search,Search / High intent,79.94,0.00,USD
+SYN-1643,2026-08-20,paid search,Search / High intent,88.42,0.00,USD
+SYN-1644,2026-08-20,paid search,Search / High intent,74.71,0.00,USD
+SYN-1645,2026-08-20, Search ,Search / High intent,94.44,0.00,USD
+SYN-1646,2026-08-20,paid search,Search / High intent,84.31,0.00,USD
+SYN-1647,2026-08-20,paid search,Search / High intent,96.07,0.00,USD
+SYN-1648,2026-08-20,paid search,Search / High intent,90.73,0.00,USD
+SYN-1649,2026-08-20,paid search,Search / High intent,88.45,0.00,USD
+SYN-1650,2026-08-20,paid search,Search / High intent,78.65,0.00,USD
+SYN-1651,2026-08-20,paid social,Social / Prospecting,87.42,0.00,USD
+SYN-1652,2026-08-20,paid social,Social / Prospecting,93.73,0.00,USD
+SYN-1653,2026-08-20,paid social,Social / Prospecting,71.05,0.00,USD
+SYN-1654,2026-08-20,paid social,Social / Prospecting,90.31,0.00,USD
+SYN-1655,2026-08-20,paid social,Social / Prospecting,79.79,0.00,USD
+SYN-1656,2026-08-20,paid social,Social / Prospecting,84.78,0.00,USD
+SYN-1657,2026-08-20,email,Email / Loyalty,102.02,0.00,USD
+SYN-1658,2026-08-20,email,Email / Loyalty,95.36,0.00,USD
+SYN-1659,2026-08-20,email,Email / Loyalty,93.39,0.00,USD
+SYN-1660,2026-08-20,email,Email / Loyalty,103.75,0.00,USD
+SYN-1661,2026-08-20,email,Email / Loyalty,102.19,0.00,USD
+SYN-1662,2026-08-20,email,Email / Loyalty,113.86,0.00,USD
+SYN-1663,2026-08-20,organic,Organic / Discovery,85.74,0.00,USD
+SYN-1664,2026-08-20,organic,Organic / Discovery,71.97,0.00,USD
+SYN-1665,2026-08-20,organic,Organic / Discovery,101.20,0.00,USD
+SYN-1666,2026-08-20,organic,Organic / Discovery,88.31,0.00,USD
+SYN-1667,2026-08-21,paid search,Search / High intent,77.23,0.00,USD
+SYN-1668,2026-08-21,paid search,Search / High intent,83.33,0.00,USD
+SYN-1669,2026-08-21,paid search,Search / High intent,79.71,0.00,USD
+SYN-1670,2026-08-21,paid search,Search / High intent,85.89,0.00,USD
+SYN-1671,2026-08-21,paid search,Search / High intent,93.54,0.00,USD
+SYN-1672,2026-08-21,paid search,Search / High intent,76.93,0.00,USD
+SYN-1673,2026-08-21, Search ,Search / High intent,90.74,0.00,USD
+SYN-1674,2026-08-21,paid search,Search / High intent,89.55,0.00,USD
+SYN-1675,2026-08-21,paid search,Search / High intent,100.44,0.00,USD
+SYN-1676,2026-08-21,paid search,Search / High intent,75.97,0.00,USD
+SYN-1677,2026-08-21,paid social,Social / Prospecting,62.36,0.00,USD
+SYN-1678,2026-08-21,paid social,Social / Prospecting,63.08,0.00,USD
+SYN-1679,2026-08-21,paid social,Social / Prospecting,87.73,0.00,USD
+SYN-1680,2026-08-21,paid social,Social / Prospecting,83.22,0.00,USD
+SYN-1681,2026-08-21,paid social,Social / Prospecting,62.06,0.00,USD
+SYN-1682,2026-08-21,paid social,Social / Prospecting,89.78,0.00,USD
+SYN-1683,2026-08-21,paid social,Social / Prospecting,71.14,0.00,USD
+SYN-1684,2026-08-21,paid social,Social / Prospecting,65.22,0.00,USD
+SYN-1685,2026-08-21,email,Email / Loyalty,103.03,0.00,USD
+SYN-1686,2026-08-21,email,Email / Loyalty,87.53,0.00,USD
+SYN-1687,2026-08-21,email,Email / Loyalty,91.62,91.62,USD
+SYN-1688,2026-08-21,email,Email / Loyalty,85.03,0.00,USD
+SYN-1689,2026-08-21,email,Email / Loyalty,82.76,0.00,USD
+SYN-1690,2026-08-21,email,Email / Loyalty,107.65,0.00,USD
+SYN-1691,2026-08-21,email,Email / Loyalty,96.26,0.00,USD
+SYN-1692,2026-08-21,email,Email / Loyalty,86.55,0.00,USD
+SYN-1693,2026-08-21,organic,Organic / Discovery,101.67,0.00,USD
+SYN-1694,2026-08-21,organic,Organic / Discovery,65.50,0.00,USD
+SYN-1695,2026-08-21,organic,Organic / Discovery,75.66,0.00,USD
+SYN-1696,2026-08-22,paid search,Search / High intent,82.86,0.00,USD
+SYN-1697,2026-08-22,paid search,Search / High intent,107.67,0.00,USD
+SYN-1698,2026-08-22,paid search,Search / High intent,93.10,0.00,USD
+SYN-1699,2026-08-22,paid search,Search / High intent,85.88,0.00,USD
+SYN-1700,2026-08-22,paid search,Search / High intent,93.60,0.00,USD
+SYN-1701,2026-08-22, Search ,Search / High intent,95.74,0.00,USD
+SYN-1702,2026-08-22,paid search,Search / High intent,88.11,0.00,USD
+SYN-1703,2026-08-22,paid search,Search / High intent,86.50,0.00,USD
+SYN-1704,2026-08-22,paid search,Search / High intent,76.36,0.00,USD
+SYN-1705,2026-08-22,paid search,Search / High intent,104.00,0.00,USD
+SYN-1706,2026-08-22,paid search,Search / High intent,101.60,0.00,USD
+SYN-1707,2026-08-22,paid search,Search / High intent,104.70,0.00,USD
+SYN-1708,2026-08-22,paid social,Social / Prospecting,81.24,0.00,USD
+SYN-1709,2026-08-22,paid social,Social / Prospecting,74.71,0.00,USD
+SYN-1710,2026-08-22,paid social,Social / Prospecting,96.51,0.00,USD
+SYN-1711,2026-08-22,paid social,Social / Prospecting,79.63,0.00,USD
+SYN-1712,2026-08-22,paid social,Social / Prospecting,79.03,0.00,USD
+SYN-1713,2026-08-22,paid social,Social / Prospecting,84.13,0.00,USD
+SYN-1714,2026-08-22,paid social,Social / Prospecting,57.97,0.00,USD
+SYN-1715,2026-08-22,paid social,Social / Prospecting,63.61,0.00,USD
+SYN-1716,2026-08-22,paid social,Social / Prospecting,96.56,0.00,USD
+SYN-1717,2026-08-22,paid social,Social / Prospecting,82.64,0.00,USD
+SYN-1718,2026-08-22,email,Email / Loyalty,101.56,0.00,USD
+SYN-1719,2026-08-22,email,Email / Loyalty,82.77,0.00,USD
+SYN-1720,2026-08-22,email,Email / Loyalty,85.83,0.00,USD
+SYN-1721,2026-08-22,email,Email / Loyalty,109.66,0.00,USD
+SYN-1722,2026-08-22,email,Email / Loyalty,88.05,0.00,USD
+SYN-1723,2026-08-22,email,Email / Loyalty,84.56,0.00,USD
+SYN-1724,2026-08-22,email,Email / Loyalty,85.73,0.00,USD
+SYN-1725,2026-08-22,organic,Organic / Discovery,81.95,0.00,USD
+SYN-1726,2026-08-22,organic,Organic / Discovery,84.28,0.00,USD
+SYN-1727,2026-08-22,organic,Organic / Discovery,81.74,0.00,USD
+SYN-1728,2026-08-22,organic,Organic / Discovery,89.37,0.00,USD
+SYN-1729,2026-08-22,organic,Organic / Discovery,83.37,0.00,USD
+SYN-1730,2026-08-22,organic,Organic / Discovery,74.05,0.00,USD
+SYN-1731,2026-08-22,organic,Organic / Discovery,94.83,0.00,USD
+SYN-1732,2026-08-23,paid search,Search / High intent,87.80,0.00,USD
+SYN-1733,2026-08-23,paid search,Search / High intent,76.53,0.00,USD
+SYN-1734,2026-08-23,paid search,Search / High intent,84.49,0.00,USD
+SYN-1735,2026-08-23,paid search,Search / High intent,106.29,0.00,USD
+SYN-1736,2026-08-23, Search ,Search / High intent,72.64,0.00,USD
+SYN-1737,2026-08-23,paid search,Search / High intent,105.65,0.00,USD
+SYN-1738,2026-08-23,paid search,Search / High intent,107.21,0.00,USD
+SYN-1739,2026-08-23,paid search,Search / High intent,74.50,0.00,USD
+SYN-1740,2026-08-23,paid search,Search / High intent,90.31,0.00,USD
+SYN-1741,2026-08-23,paid search,Search / High intent,93.23,0.00,USD
+SYN-1742,2026-08-23,paid social,Social / Prospecting,71.04,0.00,USD
+SYN-1743,2026-08-23,paid social,Social / Prospecting,58.40,0.00,USD
+SYN-1744,2026-08-23,paid social,Social / Prospecting,57.74,0.00,USD
+SYN-1745,2026-08-23,paid social,Social / Prospecting,94.82,0.00,USD
+SYN-1746,2026-08-23,paid social,Social / Prospecting,68.61,68.61,USD
+SYN-1747,2026-08-23,paid social,Social / Prospecting,78.58,0.00,USD
+SYN-1748,2026-08-23,paid social,Social / Prospecting,77.07,0.00,USD
+SYN-1749,2026-08-23,paid social,Social / Prospecting,64.61,0.00,USD
+SYN-1750,2026-08-23,email,Email / Loyalty,115.10,0.00,USD
+SYN-1751,2026-08-23,email,Email / Loyalty,97.00,0.00,USD
+SYN-1752,2026-08-23,email,Email / Loyalty,92.95,0.00,USD
+SYN-1753,2026-08-23,email,Email / Loyalty,84.61,0.00,USD
+SYN-1754,2026-08-23,email,Email / Loyalty,85.87,0.00,USD
+SYN-1755,2026-08-23,organic,Organic / Discovery,84.21,0.00,USD
+SYN-1756,2026-08-23,organic,Organic / Discovery,92.41,0.00,USD
+SYN-1757,2026-08-23,organic,Organic / Discovery,83.15,0.00,USD
+SYN-1758,2026-08-23,organic,Organic / Discovery,100.67,0.00,USD
+SYN-1759,2026-08-23,organic,Organic / Discovery,96.68,0.00,USD
+SYN-1760,2026-08-23,organic,Organic / Discovery,102.90,0.00,USD
+SYN-1761,2026-08-23,organic,Organic / Discovery,84.25,0.00,USD
+SYN-1762,2026-08-23,organic,Organic / Discovery,76.38,0.00,USD
+SYN-1763,2026-08-24,paid search,Search / High intent,70.04,0.00,USD
+SYN-1764,2026-08-24, Search ,Search / High intent,95.95,0.00,USD
+SYN-1765,2026-08-24,paid search,Search / High intent,89.22,0.00,USD
+SYN-1766,2026-08-24,paid search,Search / High intent,89.80,0.00,USD
+SYN-1767,2026-08-24,paid search,Search / High intent,97.03,0.00,USD
+SYN-1768,2026-08-24,paid search,Search / High intent,85.08,0.00,USD
+SYN-1769,2026-08-24,paid search,Search / High intent,85.81,0.00,USD
+SYN-1770,2026-08-24,paid search,Search / High intent,94.83,0.00,USD
+SYN-1771,2026-08-24, Search ,Search / High intent,76.16,0.00,USD
+SYN-1772,2026-08-24,paid search,Search / High intent,101.92,0.00,USD
+SYN-1773,2026-08-24,paid search,Search / High intent,109.42,0.00,USD
+SYN-1774,2026-08-24,paid search,Search / High intent,82.20,0.00,USD
+SYN-1775,2026-08-24,paid search,Search / High intent,86.54,0.00,USD
+SYN-1776,2026-08-24,paid search,Search / High intent,95.62,0.00,USD
+SYN-1777,2026-08-24,paid social,Social / Prospecting,68.37,0.00,USD
+SYN-1778,2026-08-24,paid social,Social / Prospecting,67.09,0.00,USD
+SYN-1779,2026-08-24,paid social,Social / Prospecting,57.22,0.00,USD
+SYN-1780,2026-08-24,paid social,Social / Prospecting,65.29,0.00,USD
+SYN-1781,2026-08-24,paid social,Social / Prospecting,87.10,0.00,USD
+SYN-1782,2026-08-24,paid social,Social / Prospecting,64.82,0.00,USD
+SYN-1783,2026-08-24,email,Email / Loyalty,91.40,0.00,USD
+SYN-1784,2026-08-24,email,Email / Loyalty,110.06,0.00,USD
+SYN-1785,2026-08-24,email,Email / Loyalty,91.62,0.00,USD
+SYN-1786,2026-08-24,email,Email / Loyalty,85.13,0.00,USD
+SYN-1787,2026-08-24,email,Email / Loyalty,109.14,0.00,USD
+SYN-1788,2026-08-24,email,Email / Loyalty,91.56,0.00,USD
+SYN-1789,2026-08-24,email,Email / Loyalty,80.44,0.00,USD
+SYN-1790,2026-08-24,email,Email / Loyalty,97.01,0.00,USD
+SYN-1791,2026-08-24,organic,Organic / Discovery,96.88,0.00,USD
+SYN-1792,2026-08-24,organic,Organic / Discovery,102.10,0.00,USD
+SYN-1793,2026-08-24,organic,Organic / Discovery,90.35,0.00,USD
+SYN-1794,2026-08-25,paid search,Search / High intent,94.58,0.00,USD
+SYN-1795,2026-08-25,paid search,Search / High intent,99.15,0.00,USD
+SYN-1796,2026-08-25,paid search,Search / High intent,103.84,0.00,USD
+SYN-1797,2026-08-25,paid search,Search / High intent,73.87,0.00,USD
+SYN-1798,2026-08-25,paid search,Search / High intent,103.02,0.00,USD
+SYN-1799,2026-08-25, Search ,Search / High intent,101.72,0.00,USD
+SYN-1800,2026-08-25,paid search,Search / High intent,80.37,0.00,USD
+SYN-1801,2026-08-25,paid search,Search / High intent,95.15,0.00,USD
+SYN-1802,2026-08-25,paid search,Search / High intent,91.84,0.00,USD
+SYN-1803,2026-08-25,paid search,Search / High intent,73.73,0.00,USD
+SYN-1804,2026-08-25,paid social,Social / Prospecting,92.64,0.00,USD
+SYN-1805,2026-08-25,paid social,Social / Prospecting,81.66,0.00,USD
+SYN-1806,2026-08-25,paid social,Social / Prospecting,65.38,0.00,USD
+SYN-1807,2026-08-25,paid social,Social / Prospecting,72.25,0.00,USD
+SYN-1808,2026-08-25,paid social,Social / Prospecting,95.66,0.00,USD
+SYN-1809,2026-08-25,paid social,Social / Prospecting,63.00,0.00,USD
+SYN-1810,2026-08-25,paid social,Social / Prospecting,64.81,0.00,USD
+SYN-1811,2026-08-25,paid social,Social / Prospecting,65.74,0.00,USD
+SYN-1812,2026-08-25,paid social,Social / Prospecting,79.58,0.00,USD
+SYN-1813,2026-08-25,email,Email / Loyalty,101.92,0.00,USD
+SYN-1814,2026-08-25,email,Email / Loyalty,113.89,0.00,USD
+SYN-1815,2026-08-25,email,Email / Loyalty,90.36,0.00,USD
+SYN-1816,2026-08-25,email,Email / Loyalty,108.04,0.00,USD
+SYN-1817,2026-08-25,email,Email / Loyalty,95.94,0.00,USD
+SYN-1818,2026-08-25,email,Email / Loyalty,81.64,0.00,USD
+SYN-1819,2026-08-25,email,Email / Loyalty,109.81,0.00,USD
+SYN-1820,2026-08-25,email,Email / Loyalty,80.06,0.00,USD
+SYN-1821,2026-08-25,organic,Organic / Discovery,89.47,0.00,USD
+SYN-1822,2026-08-25,organic,Organic / Discovery,75.07,0.00,USD
+SYN-1823,2026-08-25,organic,Organic / Discovery,81.58,0.00,USD
+SYN-1824,2026-08-26,paid search,Search / High intent,107.47,0.00,USD
+SYN-1825,2026-08-26,paid search,Search / High intent,83.68,0.00,USD
+SYN-1826,2026-08-26,paid search,Search / High intent,91.72,0.00,USD
+SYN-1827,2026-08-26, Search ,Search / High intent,84.58,0.00,USD
+SYN-1828,2026-08-26,paid search,Search / High intent,80.50,0.00,USD
+SYN-1829,2026-08-26,paid search,Search / High intent,85.19,0.00,USD
+SYN-1830,2026-08-26,paid search,Search / High intent,106.45,106.45,USD
+SYN-1831,2026-08-26,paid search,Search / High intent,100.18,0.00,USD
+SYN-1832,2026-08-26,paid search,Search / High intent,79.04,79.04,USD
+SYN-1833,2026-08-26,paid search,Search / High intent,107.87,0.00,USD
+SYN-1834,2026-08-26, Search ,Search / High intent,87.22,0.00,USD
+SYN-1835,2026-08-26,paid search,Search / High intent,96.74,0.00,USD
+SYN-1836,2026-08-26,paid search,Search / High intent,70.03,0.00,USD
+SYN-1837,2026-08-26,paid search,Search / High intent,74.76,0.00,USD
+SYN-1838,2026-08-26,paid social,Social / Prospecting,87.95,0.00,USD
+SYN-1839,2026-08-26,paid social,Social / Prospecting,65.42,0.00,USD
+SYN-1840,2026-08-26,paid social,Social / Prospecting,96.68,0.00,USD
+SYN-1841,2026-08-26,paid social,Social / Prospecting,78.92,0.00,USD
+SYN-1842,2026-08-26,paid social,Social / Prospecting,85.99,0.00,USD
+SYN-1843,2026-08-26,paid social,Social / Prospecting,92.64,0.00,USD
+SYN-1844,2026-08-26,paid social,Social / Prospecting,65.31,0.00,USD
+SYN-1845,2026-08-26,paid social,Social / Prospecting,95.41,0.00,USD
+SYN-1846,2026-08-26,email,Email / Loyalty,102.78,0.00,USD
+SYN-1847,2026-08-26,email,Email / Loyalty,100.13,0.00,USD
+SYN-1848,2026-08-26,email,Email / Loyalty,105.29,0.00,USD
+SYN-1849,2026-08-26,email,Email / Loyalty,99.88,0.00,USD
+SYN-1850,2026-08-26,email,Email / Loyalty,112.53,0.00,USD
+SYN-1851,2026-08-26,email,Email / Loyalty,86.68,0.00,USD
+SYN-1852,2026-08-26,email,Email / Loyalty,85.02,0.00,USD
+SYN-1853,2026-08-26,email,Email / Loyalty,105.79,0.00,USD
+SYN-1854,2026-08-26,email,Email / Loyalty,118.02,0.00,USD
+SYN-1855,2026-08-26,email,Email / Loyalty,104.92,0.00,USD
+SYN-1856,2026-08-26,organic,Organic / Discovery,80.18,0.00,USD
+SYN-1857,2026-08-26,organic,Organic / Discovery,81.40,0.00,USD
+SYN-1858,2026-08-26,organic,Organic / Discovery,99.09,0.00,USD
+SYN-1859,2026-08-26,organic,Organic / Discovery,74.90,0.00,USD
+SYN-1860,2026-08-26,organic,Organic / Discovery,91.88,0.00,USD
+SYN-1861,2026-08-26,organic,Organic / Discovery,81.01,0.00,USD
+SYN-1862,2026-08-26,organic,Organic / Discovery,93.40,0.00,USD
+SYN-1863,2026-08-27,paid search,Search / High intent,88.85,0.00,USD
+SYN-1864,2026-08-27,paid search,Search / High intent,96.49,96.49,USD
+SYN-1865,2026-08-27,paid search,Search / High intent,91.72,0.00,USD
+SYN-1866,2026-08-27,paid search,Search / High intent,91.09,0.00,USD
+SYN-1867,2026-08-27,paid search,Search / High intent,94.60,0.00,USD
+SYN-1868,2026-08-27,paid search,Search / High intent,91.56,0.00,USD
+SYN-1869,2026-08-27, Search ,Search / High intent,80.87,0.00,USD
+SYN-1870,2026-08-27,paid search,Search / High intent,81.73,0.00,USD
+SYN-1871,2026-08-27,paid search,Search / High intent,104.85,0.00,USD
+SYN-1872,2026-08-27,paid search,Search / High intent,79.52,0.00,USD
+SYN-1873,2026-08-27,paid search,Search / High intent,83.85,0.00,USD
+SYN-1874,2026-08-27,paid search,Search / High intent,92.34,0.00,USD
+SYN-1875,2026-08-27,paid search,Search / High intent,72.82,0.00,USD
+SYN-1876,2026-08-27, Search ,Search / High intent,97.66,0.00,USD
+SYN-1877,2026-08-27,paid social,Social / Prospecting,57.41,0.00,USD
+SYN-1878,2026-08-27,paid social,Social / Prospecting,63.90,0.00,USD
+SYN-1879,2026-08-27,paid social,Social / Prospecting,94.15,0.00,USD
+SYN-1880,2026-08-27,paid social,Social / Prospecting,59.53,0.00,USD
+SYN-1881,2026-08-27,paid social,Social / Prospecting,84.88,0.00,USD
+SYN-1882,2026-08-27,paid social,Social / Prospecting,57.53,0.00,USD
+SYN-1883,2026-08-27,paid social,Social / Prospecting,79.19,0.00,USD
+SYN-1884,2026-08-27,paid social,Social / Prospecting,67.91,0.00,USD
+SYN-1885,2026-08-27,paid social,Social / Prospecting,69.23,0.00,USD
+SYN-1886,2026-08-27,paid social,Social / Prospecting,92.24,0.00,USD
+SYN-1887,2026-08-27,paid social,Social / Prospecting,77.91,0.00,USD
+SYN-1888,2026-08-27,email,Email / Loyalty,81.85,0.00,USD
+SYN-1889,2026-08-27,email,Email / Loyalty,94.53,0.00,USD
+SYN-1890,2026-08-27,email,Email / Loyalty,104.47,0.00,USD
+SYN-1891,2026-08-27,email,Email / Loyalty,91.95,0.00,USD
+SYN-1892,2026-08-27,email,Email / Loyalty,85.47,0.00,USD
+SYN-1893,2026-08-27,email,Email / Loyalty,109.62,0.00,USD
+SYN-1894,2026-08-27,email,Email / Loyalty,82.01,0.00,USD
+SYN-1895,2026-08-27,email,Email / Loyalty,104.22,0.00,USD
+SYN-1896,2026-08-27,organic,Organic / Discovery,82.96,0.00,USD
+SYN-1897,2026-08-27,organic,Organic / Discovery,72.34,0.00,USD
+SYN-1898,2026-08-27,organic,Organic / Discovery,83.01,0.00,USD
+SYN-1899,2026-08-27,organic,Organic / Discovery,98.76,0.00,USD
+SYN-1900,2026-08-28,paid search,Search / High intent,95.68,0.00,USD
+SYN-1901,2026-08-28,paid search,Search / High intent,100.74,0.00,USD
+SYN-1902,2026-08-28,paid search,Search / High intent,88.15,0.00,USD
+SYN-1903,2026-08-28,paid search,Search / High intent,106.61,0.00,USD
+SYN-1904,2026-08-28, Search ,Search / High intent,77.15,0.00,USD
+SYN-1905,2026-08-28,paid search,Search / High intent,106.84,0.00,USD
+SYN-1906,2026-08-28,paid search,Search / High intent,94.23,0.00,USD
+SYN-1907,2026-08-28,paid search,Search / High intent,82.26,0.00,USD
+SYN-1908,2026-08-28,paid search,Search / High intent,78.78,0.00,USD
+SYN-1909,2026-08-28,paid search,Search / High intent,107.84,0.00,USD
+SYN-1910,2026-08-28,paid search,Search / High intent,102.40,0.00,USD
+SYN-1911,2026-08-28, Search ,Search / High intent,87.04,0.00,USD
+SYN-1912,2026-08-28,paid search,Search / High intent,108.45,0.00,USD
+SYN-1913,2026-08-28,paid search,Search / High intent,91.60,0.00,USD
+SYN-1914,2026-08-28,paid social,Social / Prospecting,87.79,0.00,USD
+SYN-1915,2026-08-28,paid social,Social / Prospecting,72.14,0.00,USD
+SYN-1916,2026-08-28,paid social,Social / Prospecting,62.46,0.00,USD
+SYN-1917,2026-08-28,paid social,Social / Prospecting,95.62,0.00,USD
+SYN-1918,2026-08-28,paid social,Social / Prospecting,75.12,0.00,USD
+SYN-1919,2026-08-28,paid social,Social / Prospecting,85.35,0.00,USD
+SYN-1920,2026-08-28,paid social,Social / Prospecting,75.09,0.00,USD
+SYN-1921,2026-08-28,paid social,Social / Prospecting,83.34,0.00,USD
+SYN-1922,2026-08-28,paid social,Social / Prospecting,61.46,0.00,USD
+SYN-1923,2026-08-28,paid social,Social / Prospecting,61.09,0.00,USD
+SYN-1924,2026-08-28,paid social,Social / Prospecting,89.56,0.00,USD
+SYN-1925,2026-08-28,email,Email / Loyalty,118.25,0.00,USD
+SYN-1926,2026-08-28,email,Email / Loyalty,114.96,0.00,USD
+SYN-1927,2026-08-28,email,Email / Loyalty,100.13,0.00,USD
+SYN-1928,2026-08-28,email,Email / Loyalty,110.94,110.94,USD
+SYN-1929,2026-08-28,email,Email / Loyalty,109.22,0.00,USD
+SYN-1930,2026-08-28,email,Email / Loyalty,81.48,0.00,USD
+SYN-1931,2026-08-28,email,Email / Loyalty,119.85,0.00,USD
+SYN-1932,2026-08-28,email,Email / Loyalty,98.93,0.00,USD
+SYN-1933,2026-08-28,email,Email / Loyalty,84.74,84.74,USD
+SYN-1934,2026-08-28,organic,Organic / Discovery,91.52,0.00,USD
+SYN-1935,2026-08-28,organic,Organic / Discovery,102.48,0.00,USD
+SYN-1936,2026-08-28,organic,Organic / Discovery,73.60,0.00,USD
+SYN-1937,2026-08-28,organic,Organic / Discovery,100.33,0.00,USD
+SYN-1938,2026-08-28,organic,Organic / Discovery,90.67,0.00,USD
+SYN-1939,2026-08-28,organic,Organic / Discovery,85.11,0.00,USD
+SYN-1001,2026-08-01, Search ,Search / High intent,91.20,0.00,USD
+SYN-BAD1,2026-02-30,email,Email / Loyalty,50,0,USD
+SYN-BAD2,2026-08-01,email,Email / Loyalty,-50,0,USD
